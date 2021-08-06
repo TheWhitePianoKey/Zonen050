@@ -7,7 +7,7 @@
 	>
 <channel>
 	<title>
-	Comments on: Hello world!	</title>
+	Reacties op: Hello world!	</title>
 	<atom:link href="http://www.zonen050.com/2021/05/26/hello-world/feed/" rel="self" type="application/rss+xml" />
 	<link>http://www.zonen050.com/2021/05/26/hello-world/</link>
 	<description>een documentaire over zonen, soms afwezige vaders en supermama’s.</description>
@@ -19,7 +19,7 @@
 	<generator>https://wordpress.org/?v=5.8</generator>
 	<item>
 		<title>
-		By: A WordPress Commenter		</title>
+		Door: A WordPress Commenter		</title>
 		<link>http://www.zonen050.com/2021/05/26/hello-world/#comment-1</link>
 
 		<dc:creator><![CDATA[A WordPress Commenter]]></dc:creator>
